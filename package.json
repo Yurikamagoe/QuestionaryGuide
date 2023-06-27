@@ -1,0 +1,22 @@
+{
+  "name": "questionaryguide",
+  "version": "1.0.0",
+  "description": "Uma plataforma de perguntas e respostas ao estilo Yahoo respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yurikamagoe/QuestionaryGuide.git"
+  },
+  "author": "Yuri Kamagoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yurikamagoe/QuestionaryGuide/issues"
+  },
+  "homepage": "https://github.com/Yurikamagoe/QuestionaryGuide#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

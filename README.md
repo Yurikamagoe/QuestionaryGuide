@@ -1,2 +1,2 @@
 # QuestionaryGuide
-Plataforma de perguntas e respostas com MySQL
+Plataforma de perguntas e respostas com Node.js e MySQL.
